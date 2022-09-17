@@ -3,8 +3,8 @@
 bin/
 bin2/
 Truct/
-# *.lib
-# *.a
+*.lib
+*.a
 
 # Prerequisites
 *.d
