@@ -1,3 +1,4 @@
+build.mkdir("bin")
 
 local files = {
     "src/tb/*.c",
